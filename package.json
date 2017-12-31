@@ -1,0 +1,13 @@
+{
+  "name": "es6-wallaby-katas",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}
